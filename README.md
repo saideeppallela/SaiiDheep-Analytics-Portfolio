@@ -2,7 +2,7 @@
 <h3 align="center">🎯 Data Analyst | Power BI | SQL Server | Excel | Python | MBA - Business Analytics</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaideepPallela/SaideepPallela/main/profile-pic.jpg" width="160" height="160" style="border-radius: 50%;" alt="Saideep's Photo"/>
+  <img src="https://raw.githubusercontent.com/SaideepPallela/SaideepPallela/main/profile-pic.jpg" width="180" height="180" style="border-radius: 50%;" alt="Saideep's Photo"/>
 </p>
 
 <p align="center">
