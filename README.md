@@ -70,61 +70,19 @@
 
 ---
 
- ### 📊 MICROSOFT EXCEL DASHBOARDS
+### 📊 Explore My Microsoft Excel Projects
 
-#### 📌 Blinkit Sales Dashboard
-📌 **Focus:** Sales performance & category trends  
-✅ **Highlights:** Interactive dashboard with KPIs & slicers  
-🛠 **Tools:** Excel, Pivot Tables, Charts  
-🔗 **View on GitHub**
+Welcome! Dive into my collection of **interactive Excel Dashboards & Business Insights** projects. These dashboards are designed to turn raw data into actionable insights and visually engaging reports.  
 
----
+💻 **Check out the projects here:** [Excel Dashboards & Business Insights](https://github.com/saideeppallela/Excel-Dashboards-and-Business-Insights)  
 
-#### 📌 HR Analytics Dashboard
-📌 **Focus:** Employee attrition & workforce planning  
-✅ **Highlights:** Demographics, retention insights, and KPIs  
-🛠 **Tools:** Excel, Power Query  
-🔗 **View on GitHub**
+✨ Highlights:  
+- Interactive charts & dashboards  
+- Automated data analysis with Excel formulas  
+- Business insights for decision making  
 
 ---
 
-#### 📌 Road Accident Analysis
-📌 **Focus:** Accident patterns by location & time  
-✅ **Highlights:** Risk zone identification & trend analysis  
-🛠 **Tools:** Excel, Conditional Formatting  
-🔗 **View on GitHub**
-
----
-
-#### 📌 Maven Careers Dashboard
-📌 **Focus:** Job application trends & hiring funnel  
-✅ **Highlights:** Clean HR dashboard for decision-making  
-🛠 **Tools:** Excel, Pivot Charts  
-🔗 **View on GitHub**
-
----
-
-#### 📌 Bike Sales Dashboard
-📌 **Focus:** Sales by gender, age, and commuting habits  
-✅ **Highlights:** Interactive dashboard with slicers & KPIs  
-🛠 **Tools:** Excel, Pivot Tables  
-🔗 **View on GitHub**
-
----
-
-#### 📌 Customer Service Dashboard
-📌 **Focus:** Response time & customer satisfaction metrics  
-✅ **Highlights:** KPIs, trend charts, and actionable insights  
-🛠 **Tools:** Excel, Charts  
-🔗 **View on GitHub**
-
----
-
-#### 📌 Vrinda Store Dashboard
-📌 **Focus:** 2023 sales performance & customer preferences  
-✅ **Highlights:** Pivot tables, charts, and slicers for interactivity  
-🛠 **Tools:** Excel, Pivot Tables  
-🔗 **View on GitHub**
 
 
 #### ✅ Power BI Projects
