@@ -63,13 +63,14 @@
 
 ---
 
-## 📂 Portfolio – Data Analytics Projects
+ ## 📂  PORTIFOLIO – DATA ANALYTICS PROJECTS 
 
-💡 *Here are some of my real-world projects showcasing Excel dashboards and business insights.*
+                                 
+💡 *A collection of my real-world projects showcasing data analysis, visualization, and business insights using Excel, Power BI, Python, and SQL.*
 
 ---
 
-### 📊 Excel Dashboards
+ ### 📊 MICROSOFT EXCEL DASHBOARDS
 
 #### 📌 Blinkit Sales Dashboard
 📌 **Focus:** Sales performance & category trends  
